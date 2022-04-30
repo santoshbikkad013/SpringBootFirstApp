@@ -7,4 +7,9 @@ public class Greet {
 		System.out.println("good morning");
 		System.out.println("bye all");
 	}
+	
+	public void greet1() {
+		System.out.println("good morning");
+		System.out.println("bye all");
+	}
 }
